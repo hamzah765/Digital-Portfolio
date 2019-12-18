@@ -1,0 +1,56 @@
+body{
+    background-color: black;
+    
+}
+.email{
+    background-color:black;
+    color:white;
+    border:10px double blue;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    word-spacing: 10px;
+}
+.soc{
+    background-color:black;
+    color:white;
+    border:10px double blue;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    word-spacing: 10px;
+}
+.phone{
+    background-color:black;
+    color:white;
+    border:10px double blue;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    word-spacing: 10px;
+}
+/* .everything{
+
+} */
+h1{
+    background-color:black;
+    color:white;
+    border:10px double blue;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    word-spacing: 10px;
+    
+}
+.photos{
+   display: flex;
+   border: double blue 10px;
+}
+h2{
+    background-color:black;
+    color:white;
+    border:10px double blue;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    word-spacing: 10px;
+}
+.im{
+    margin-left: 500px;
+    margin-top: 50px;
+}

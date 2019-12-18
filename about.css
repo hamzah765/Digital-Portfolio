@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+}
+h1{
+    background-color:black;
+    color:white;
+    border:10px double blue;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    word-spacing: 10px;
+}
+.ab{
+    background-color:black;
+    color:white;
+    border:10px double blue;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    word-spacing: 10px;
+}
+.ach{
+    background-color:black;
+    color:white;
+    border:10px double blue;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    word-spacing: 10px;
+}
+.int{
+    background-color:black;
+    color:white;
+    border:10px double blue;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    word-spacing: 10px;
+}

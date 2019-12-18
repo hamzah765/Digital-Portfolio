@@ -1,0 +1,29 @@
+body{
+    background-color: black
+}
+h1{
+    color: azure;
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: black;
+   border: 10px solid blue;
+   word-spacing: 10px;
+   
+}
+.fut{
+    color: azure;
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: black;
+    position: absolute;
+   font-size: 30px;
+   border: 10px solid blue;
+   word-spacing: 10px;
+   
+}
+.img7{
+    margin-top: 200px;
+    margin-left: 380px;
+    
+}
+/* img{
+   
+} */

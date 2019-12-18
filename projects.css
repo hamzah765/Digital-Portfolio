@@ -1,0 +1,55 @@
+body{
+    background-color:black
+}
+
+
+
+h1{
+    background-color:black;
+    color:white;
+    border:10px double blue;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    word-spacing: 10px;
+}
+h2{
+    background-color:black;
+    color:white;
+    border:10px double blue;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    margin-right: 520px;
+    word-spacing: 10px;
+}
+.info{
+    background-color:black;
+    color:white;
+    border:10px double blue;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    word-spacing: 10px;
+}
+.proj{
+    background-color:black;
+    color:white;
+    border:10px double blue;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    word-spacing: 10px;
+}
+.rn{
+    background-color:black;
+    color:white;
+    border:10px double blue;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    word-spacing: 10px;
+}
+.rn2{
+    background-color:black;
+    color:white;
+    border:10px double blue;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    word-spacing: 10px;
+}
