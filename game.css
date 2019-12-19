@@ -1,0 +1,8 @@
+.game{
+    background-color:black;
+    color:white;
+    border:10px double blue;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    word-spacing: 10px;
+}
